@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "愛の言霊 ～Spiritual Message～",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-15T14:08:25.683546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の言霊(ことだま)~Spiritual Message",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/01_愛の言霊(ことだま)~Spiritual_Message_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の言霊 ～Spiritual Message〜",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/02_愛の言霊_~Spiritual_Message〜_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛の言霊 〜Spiritual Message〜",
+      "artist": "Southern All Stars",
+      "has_synced": false,
+      "path": "select/03_愛の言霊_〜Spiritual_Message〜_Southern_All_Stars.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛の言霊 ~Spiritual Message~",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_愛の言霊_~Spiritual_Message~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛の言霊 ～Spiritual Message～",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/05_愛の言霊_~Spiritual_Message~_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛の言霊 〜Spiritual Message〜",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_愛の言霊_〜Spiritual_Message〜_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛の言霊 ～Spiritual Message.",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/07_愛の言霊_~Spiritual_Message._サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛の言霊～Spiritual Message～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/08_愛の言霊~Spiritual_Message~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛の言霊 ～Spiritual Message～ [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/09_愛の言霊_~Spiritual_Message~_[2024_Remaster]_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛の言霊 ～Spiritual Message～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/10_愛の言霊_~Spiritual_Message~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛の言霊〜Spiritual Message〜",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/11_愛の言霊〜Spiritual_Message〜_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の言霊～Spiritual Message～",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_愛の言霊~Spiritual_Message~_サザンオールスターズ.txt"
+    }
+  ]
+}
